@@ -1,2 +1,3 @@
 # Visual-2-Tugas-menu-dan-crud
-Nama : Bimo Dwiwangga Pradito NPM : 2210010430
+Nama : Kornelis yudha Satria NPM : 2210010298
+
